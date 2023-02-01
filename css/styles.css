@@ -1,0 +1,42 @@
+* {
+    font-family: "Courier New", monospace;
+}
+
+li {
+    list-style-position: inside;
+    padding-bottom: 5px;
+    font-size: large;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+ul li {
+    list-style-type: disclosure-closed;
+    list-style-position: inside;
+    padding-bottom: 5px;
+    font-size: large;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+    cursor: pointer;
+}
